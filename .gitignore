@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+checkpoints/*
+results/logs/*
+*.pt
+*.pth
+*.h5
+*.root
+.env
+.venv/
+!.gitkeep
