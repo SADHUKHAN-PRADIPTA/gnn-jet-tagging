@@ -1,5 +1,7 @@
 # Learned GNN Physics Simulator: Particle Jet Tagging
 
+## Author
+    Pradipta Sadhukhan.
 ## Overview
 (one paragraph: problem, approach, dataset)
 
